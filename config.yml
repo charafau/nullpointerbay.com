@@ -1,0 +1,32 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: nullpointerbay.com - Rafal Wachol's Blog 
+theme: "PaperMod"
+
+params:
+    defaultTheme: auto
+
+    homeInfoParams:
+        Title: Hello! 
+        Content: > 
+            Welcome to my blog. I plan to upload posts about problems encountered while developing apps.
+            - I am fan of Flutter 🐦, Linux 🐧, mechanical keyboards ⌨ and 3d printers 🖨
+
+
+            - Feel free to contact me in any of those languages:  🇵🇱🇯🇵 🇺🇸
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/charafau"
+        - name: twitter
+          url: "https://twitter.com/rafalwachol"
+        - name: RsS
+          url: "index.xml"
+    outputs:
+        home:
+            - HTML
+            - RSS
+            - JSON
+
+    ShowShareButtons: true
+    ShowPostNavLinks: true

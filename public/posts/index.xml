@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on nullpointerbay.com - Rafal Wachol&#39;s Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on nullpointerbay.com - Rafal Wachol&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 01:18:45 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/posts/hello/</link>
+      <pubDate>Fri, 28 May 2021 01:18:45 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
