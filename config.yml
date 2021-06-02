@@ -30,3 +30,4 @@ params:
 
     ShowShareButtons: true
     ShowPostNavLinks: true
+    ShowReadingTime: true
